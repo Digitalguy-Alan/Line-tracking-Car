@@ -1,3 +1,3 @@
 # Line-Follower-Car
-This is a project I completed in the first semester of my sophomore year. I used python+opencv to binarize the image to guide the car to determine the position of the black line.
+During the first semester of my sophomore year, I successfully completed a project utilizing the Python programming language in conjunction with the OpenCV library. The project entailed utilizing image binarization techniques to guide a car in determining the position of a black line.
 ![image](https://github.com/Digitalguy-Alan/Line-tracking-Car/blob/master/image/IMG_20191124_141609.jpg)
